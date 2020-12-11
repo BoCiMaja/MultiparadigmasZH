@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12a70601-a382-4821-905c-22d2ccc67019" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lVdZVligdOCGasqYLDYK3mXiOD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="JUnit.RomanNumeralsTest.testBetweenOneAndFive">
+    <configuration name="RomanNumeralsTest.testBetweenFiftyAndOneHundred" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RomanNumerals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.RomanNumeralsTest" />
+      <option name="METHOD_NAME" value="testBetweenFiftyAndOneHundred" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RomanNumeralsTest.testBetweenFiveAndTen" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RomanNumerals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.RomanNumeralsTest" />
+      <option name="METHOD_NAME" value="testBetweenFiveAndTen" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RomanNumeralsTest.testBetweenOneAndFive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RomanNumerals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.RomanNumeralsTest" />
+      <option name="METHOD_NAME" value="testBetweenOneAndFive" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RomanNumeralsTest.testBetweenOneThousandAndThreeThousandNineHundredNinetyNine" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RomanNumerals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.RomanNumeralsTest" />
+      <option name="METHOD_NAME" value="testBetweenOneThousandAndThreeThousandNineHundredNinetyNine" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RomanNumeralsTest.testNumberFive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RomanNumerals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.RomanNumeralsTest" />
+      <option name="METHOD_NAME" value="testNumberFive" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RomanNumeralsTest.testBetweenOneAndFive" />
+        <item itemvalue="JUnit.RomanNumeralsTest.testBetweenFiveAndTen" />
+        <item itemvalue="JUnit.RomanNumeralsTest.testNumberFive" />
+        <item itemvalue="JUnit.RomanNumeralsTest.testBetweenOneThousandAndThreeThousandNineHundredNinetyNine" />
+        <item itemvalue="JUnit.RomanNumeralsTest.testBetweenFiftyAndOneHundred" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12a70601-a382-4821-905c-22d2ccc67019" name="Default Changelist" comment="" />
+      <created>1607686247972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607686247972</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" width="1092" height="775" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607686921256">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" width="1092" height="775" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607686921256" />
+    <state width="1877" height="185" key="GridCell.Tab.0.bottom" timestamp="1607693324769">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="185" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607693324769" />
+    <state width="1877" height="185" key="GridCell.Tab.0.center" timestamp="1607693324769">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="185" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607693324769" />
+    <state width="1877" height="185" key="GridCell.Tab.0.left" timestamp="1607693324769">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="185" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607693324769" />
+    <state width="1877" height="185" key="GridCell.Tab.0.right" timestamp="1607693324769">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="185" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607693324769" />
+    <state x="483" y="68" width="998" height="907" key="SettingsEditor" timestamp="1607692281485">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="483" y="68" width="998" height="907" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607692281485" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1607692148120">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607692148120" />
+  </component>
+</project>
